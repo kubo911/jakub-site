@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hello everyone!</h1>
-        <p>How is your {weekday[yourDay]} going?</p>
+        <h1>Hello!</h1>
+        <p>How is YOUR {weekday[yourDay]} going?</p>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
     </div>
